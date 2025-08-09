@@ -6,26 +6,6 @@
 
 # LangExtract
 
-[![PyPI version](https://img.shields.io/pypi/v/langextract.svg)](https://pypi.org/project/langextract/)
-[![GitHub stars](https://img.shields.io/github/stars/google/langextract.svg?style=social&label=Star)](https://github.com/google/langextract)
-![Tests](https://github.com/google/langextract/actions/workflows/ci.yaml/badge.svg)
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Why LangExtract?](#why-langextract)
-- [Quick Start](#quick-start)
-- [Installation](#installation)
-- [API Key Setup for Cloud Models](#api-key-setup-for-cloud-models)
-- [Using OpenAI Models](#using-openai-models)
-- [Using Local LLMs with Ollama](#using-local-llms-with-ollama)
-- [More Examples](#more-examples)
-  - [*Romeo and Juliet* Full Text Extraction](#romeo-and-juliet-full-text-extraction)
-  - [Medication Extraction](#medication-extraction)
-  - [Radiology Report Structuring: RadExtract](#radiology-report-structuring-radextract)
-- [Contributing](#contributing)
-- [Testing](#testing)
-- [Disclaimer](#disclaimer)
 
 ## Introduction
 
